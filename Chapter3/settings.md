@@ -35,15 +35,15 @@ categories:
 
 想要更好地了解场景列表的外观吗？以下是场景列表的三个著名示例：
 
-1. JK罗琳（JK Rowling）：《凤凰社》（The Order of the Phoenix）的场景清单。 
+- JK罗琳（JK Rowling）：《凤凰社》（The Order of the Phoenix）的场景清单。 
 
 ![JK罗琳的凤凰城场面单](http://qiniu.creativewriting.cn/JK-Rowlings-Phoenix-Plot-Outline.jpg)
 
-1. Joseph Heller：《Catch-22》的情景清单。
+- Joseph Heller：《Catch-22》的情景清单。
 
 ![约瑟夫·海勒的Catch-22场景清单](http://qiniu.creativewriting.cn/Joseph-Heller-list.jpg)
 
-1. 诺曼·梅勒（Norman Mailer）：梅勒长达1300页的关于《中央情报局》（Harlot's Ghost）的小说的场景清单  。
+- 诺曼·梅勒（Norman Mailer）：梅勒长达1300页的关于《中央情报局》（Harlot's Ghost）的小说的场景清单  。
 
 ![诺曼·梅勒·哈洛特的幽灵场景列表](http://qiniu.creativewriting.cn/mailerharlotoutlinefullsize.jpg)
 
