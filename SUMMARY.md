@@ -17,6 +17,8 @@
   * [第三节 情节构思](Chapter3/Section3/plot.md)
   * [第四节 角色](Chapter3/juese.md)  
   * [第五节 场景](Chapter3/settings.md)
+    * [第一小节 场景列表](Chapter3/Section4/scenelist.md)
+    * [第二小节 如何编写场景](Chapter3/Section4/scenes.md)
   * [第六节 冲突](Chapter3/conficts.md)
   * [第七节 高潮](Chapter3/README7.md)
 * [第四章 购买写作小说](Chapter4/README.md)
