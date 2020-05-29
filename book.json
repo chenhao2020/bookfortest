@@ -26,7 +26,8 @@
         "back-to-top-button",
         "expandable-chapters-small",
         "-lunr", "sharing","-search",
-        "alerts"
+        "alerts",
+        "image-wrapper"
     ],
     "pluginsConfig": {
         "openwrite":{
