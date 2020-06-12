@@ -15,6 +15,7 @@
     * [第二小节 测试你的核心想法](Chapter3/Section2/storyidea2.md)
     * [第三小节 永恒主题的小说创意](Chapter3/Section2/storyidea3.md)
     * [第四小节 如何收集想法并将其变成小说](Chapter3/Section2/storyidea4.md)
+    * [第五小节 通过2个简单步骤即可找到写作想法](Chapter3/Section2/storyidea5.md)
   * [第三节 情节构思](Chapter3/Section3/plot.md)
   * [第四节 角色](Chapter3/juese.md)  
   * [第五节 场景](Chapter3/settings.md)
